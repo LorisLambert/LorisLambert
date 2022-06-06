@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, World! 👋
 - 🌱 I'm a Software Engineer working at [YouX Group](https://youxgroup.com.br/) to help agricultural companies evolve sustainably for our planet.
 - 🚀 Focused on mastering the microservices environments in Java and JavaScript.
 - 🥷 Skills: REST API design, DOM manipulation, scrum certification, design thinking, debugger, unit testing, UX/UI (just for emergencies 😬).
