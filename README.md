@@ -19,4 +19,4 @@ In the overview below you will find my main personal projects:
 ##### About Software engineering
 [Assembly](https://github.com/LorisLambert/Assembly_pt-BR), [Java](https://github.com/LorisLambert/Java_pt-BR), [JavaScript](https://github.com/LorisLambert/JavaScript_pt-BR), [Node](https://github.com/LorisLambert/Node_pt-BR), [Python](https://github.com/LorisLambert/Python_pt-BR), [React](https://github.com/LorisLambert/React_pt-BR), [User Experience](https://github.com/LorisLambert/User_Experience_pt-BR), [Version Control System](https://github.com/LorisLambert/VCS_pt-BR), [Vue](https://github.com/LorisLambert/Vue_pt-BR)
 ##### About Electrical engineering
-[Analog Electronics](), [Digital Electronics](), [Electromagnetism](), [QUCS](), [VHDL](https://github.com/LorisLambert/VHDL_pt-BR)
+[Analog Electronics](https://github.com/LorisLambert/Eletronica_Analogica_pt-BR), [Digital Electronics](), [Electromagnetism](), [QUCS](), [VHDL](https://github.com/LorisLambert/VHDL_pt-BR)
