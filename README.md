@@ -6,8 +6,8 @@
 
 ### PERSONAL PROJECTS
 
-[<img align="left" height="124px" width="124px" alt="beVEG" src="https://user-images.githubusercontent.com/41905138/222327013-4f4464b4-c384-4992-98eb-36918755eaa9.png"/>](#)
-[*beVEG*](#) \
+[<img align="left" height="124px" width="124px" alt="beVEG" src="https://user-images.githubusercontent.com/41905138/222328470-536dea6e-5354-4345-a8ea-99019fe6de7d.png"/>](#)
+[*GOveg*](#) \
 *Become vegetarian or vegan in a light and fun way. Nice to meet you, I'm your new favorite veg app!* \
 *Technologies:* `1`, `2`, `3`, `...` \
 <br/>
