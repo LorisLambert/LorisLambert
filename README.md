@@ -6,7 +6,7 @@
 
 ### PERSONAL PROJECTS
 
-[<img align="left" height="124px" width="124px" alt="beVEG" src="https://user-images.githubusercontent.com/41905138/222015924-b14e6f07-e040-412d-9d21-0661bb4e60ae.png"/>](#)
+[<img align="left" height="124px" width="124px" alt="beVEG" src="https://user-images.githubusercontent.com/41905138/222327013-4f4464b4-c384-4992-98eb-36918755eaa9.png"/>](#)
 [*beVEG*](#) \
 *Become vegetarian or vegan in a light and fun way. Nice to meet you, I'm your new favorite veg app!* \
 *Technologies:* `1`, `2`, `3`, `...` \
@@ -17,7 +17,7 @@
 [<img align="left" height="124px" width="124px" alt="Homeostase" src="https://user-images.githubusercontent.com/41905138/222019209-ef94f05b-9faf-4918-913a-b0f98db1181c.png"/>](#)
 [*Homeostase*](#) \
 *The most complete health platform. Why taking care of you and your family shouldn't cause headaches!* \
-*Technologies:* `1`, `2`, `3`, `...` 
+*Technologies:* `1`, `2`, `3`, `...` \
 <br/>
 <br/>
 <br/>
