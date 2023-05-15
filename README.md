@@ -23,10 +23,10 @@
 <br/>
 
 ### DEVELOPED APIs
-[Árvores do Brasil](https://github.com/LorisLambert/api-arvores-do-brasil), [API2](), [API3]()
+[Árvores do Brasil](https://github.com/LorisLambert/api-arvores-do-brasil), [Profissionais da saúde](https://github.com/LorisLambert/api-profissioais-saude)
 
 ### CLONES
-[clone1](), [clone2](), [clone3]()
+[Amazon](), [Americanas](), [iFood](), [Instagram](), [Magazineluiza](), [Mercadolivre](), [Netflix](), [Nubank](), [PicPay](), [Spotify](), [Uber](), [Wine](), [YouTube]()
 
 ### ABSTRACTS AND STUDY NOTES
-[Assembly](https://github.com/LorisLambert/Assembly_pt-BR), [Java](https://github.com/LorisLambert/Java_pt-BR), [JavaScript](https://github.com/LorisLambert/JavaScript_pt-BR), [Node](https://github.com/LorisLambert/Node_pt-BR), [Python](https://github.com/LorisLambert/Python_pt-BR), [React](https://github.com/LorisLambert/React_pt-BR), [User Experience](https://github.com/LorisLambert/User_Experience_pt-BR), [Version Control System](https://github.com/LorisLambert/VCS_pt-BR), [Vue](https://github.com/LorisLambert/Vue_pt-BR)
+[API](), [ASP](), [Assembly](https://github.com/LorisLambert/Assembly_pt-BR), [C](), [C++](), [C#](), [Go](), [HTTP](), [Java](https://github.com/LorisLambert/Java_pt-BR), [JavaScript](https://github.com/LorisLambert/JavaScript_pt-BR), [Kotlin](), [Node](https://github.com/LorisLambert/Node_pt-BR), [Python](https://github.com/LorisLambert/Python_pt-BR), [React](https://github.com/LorisLambert/React_pt-BR), [Swift](), [User Experience](https://github.com/LorisLambert/User_Experience_pt-BR), [Version Control System](https://github.com/LorisLambert/VCS_pt-BR), [Vue](https://github.com/LorisLambert/Vue_pt-BR)
