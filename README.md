@@ -2,14 +2,14 @@
 - 🌱 I'm passionate about technology and my mission is to help companies evolve sustainably for our planet.
 - 🚀 Focused on mastering the software and mobile engineering.
 - 🥷 Skills: REST API design, DOM manipulation, scrum certification, design thinking, debugger, UX/UI (just for emergencies 😬).
-- 💬 You can contact me at [LinkedIn](https://www.linkedin.com/in/lohane-gd/).
+- 💬 You can contact me at [LinkedIn](https://www.linkedin.com/in/lohane-gd/) or lohanegdiogo@protonmail.com.
 
 ### PERSONAL PROJECTS
 
 [<img align="left" height="124px" width="124px" alt="beVEG" src="https://user-images.githubusercontent.com/41905138/222328470-536dea6e-5354-4345-a8ea-99019fe6de7d.png"/>](#)
 [*GOveg*](#) \
 *Become vegetarian or vegan in a light and fun way. Nice to meet you, I'm your new favorite veg app!* \
-*Technologies:* `1`, `2`, `3`, `...` \
+*Technologies:* `Flutter` \
 <br/>
 <br/>
 <br/>
@@ -22,8 +22,22 @@
 <br/>
 <br/>
 
-### DEVELOPED APIs
-[Árvores do Brasil](https://github.com/LorisLambert/api-arvores-do-brasil), [Profissionais da saúde](https://github.com/LorisLambert/api-profissioais-saude)
+### DEVELOPED API
+[<img align="left" height="124px" width="124px" alt="Arvores do Brasil" src="#"/>](#)
+[*Árvores do Brasil*](https://github.com/LorisLambert/api-arvores-do-brasil)\
+*We want to be the largest and most complete API for information about Brazilian native trees!* \
+*Technologies:* `Node.js` \
+<br/>
+<br/>
+<br/>
+
+[<img align="left" height="124px" width="124px" alt="Profissionais da saúde" src="https://github.com/LorisLambert/LorisLambert/assets/41905138/264129de-372b-44d3-a073-40af92f085ff"/>](#)
+[*Profissionais da saúde*](https://github.com/LorisLambert/api-profissioais-saude) \
+*The most complete health platform. Why taking care of you and your family shouldn't cause headaches!* \
+*Technologies:* `Node.js` \
+<br/>
+<br/>
+<br/>
 
 ### CLONES
 [Amazon](), [Americanas](), [iFood](), [Instagram](), [Magazineluiza](), [Mercadolivre](), [Netflix](), [Nubank](), [PicPay](), [Spotify](), [Uber](), [Wine](), [YouTube]()
