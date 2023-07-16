@@ -23,7 +23,7 @@
 <br/>
 
 ### DEVELOPED API
-[<img align="left" height="124px" width="124px" alt="Arvores do Brasil" src="#"/>](#)
+[<img align="left" height="124px" width="124px" alt="Arvores do Brasil" src="https://github.com/LorisLambert/LorisLambert/assets/41905138/5d26e7ac-77b4-43a6-b806-f867352830ba"/>](#)
 [*Árvores do Brasil*](https://github.com/LorisLambert/api-arvores-do-brasil)\
 *We want to be the largest and most complete API for information about Brazilian native trees!* \
 *Technologies:* `Node.js` \
